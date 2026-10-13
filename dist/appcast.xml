@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>neowall</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 13 Oct 2026 15:49:54 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jorgeMartinez293/neowall-releases/releases/latest/download/neowall-0.1.0.zip" length="1520590" type="application/octet-stream" sparkle:edSignature="SL9Q9yvNpxR5kpmU22ILidX1NT/GDwllXxutvCi9BtldthDG3fS7LYwQhNwVH7hMZCsW1njKR2+pV4abIJHaDg=="/>
+        </item>
+    </channel>
+</rss>
