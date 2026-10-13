@@ -1,0 +1,10 @@
+.build/
+build/
+.DS_Store
+
+# create-dmg leftovers when it aborts mid-run (tens of MB; they break pushes)
+rw.*.dmg
+
+# Release leftover: release.sh moves the disk image into dist/ at the end, so this only
+# survives an aborted run.
+/neowall.dmg
